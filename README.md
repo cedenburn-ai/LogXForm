@@ -92,6 +92,6 @@ Read order if you're evaluating it: **THEORY → spec → experiments → FRAMIN
 
 LogXform is the structural-fingerprinting layer of **The Orchard**, a persistent knowledge-graph architecture (USPTO Provisional #63/979,094). It runs in production on-device, in SQLite, on a phone. This repository extracts the method as a standalone, substrate-independent component so it can be evaluated on its own terms.
 
-Method, code, and experimental record by Chris (cedenburn-ai). The method was discovered empirically — eleven transforms tested and eliminated — and given a mathematical explanation afterward, not derived from theory. That order is in the [discovery section](spec/logxform-spec.md#discovery-arc) of the spec, kept because the elimination record is part of the evidence.
+Method, code, and experimental record by Chris (cedenburn-ai). The method was discovered empirically — eleven transforms tested and eliminated — and given a mathematical explanation afterward, not derived from theory. That order is in the spec, kept because the elimination record is part of the evidence.
 
 License: see [LICENSE](LICENSE).
