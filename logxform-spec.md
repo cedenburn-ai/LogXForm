@@ -2,7 +2,7 @@
 
 ## Patent Context
 **Application:** The Orchard — USPTO Provisional #63/979,094  
-**Author:** Chris (Tru3Blu3) — cedenburn-ai  
+**Author:** cedenburn-ai  
 **Repository:** cedenburn-ai/Thought-Seed (GitHub)  
 **Status:** Production — integrated into The Orchard Android app pipeline  
 
